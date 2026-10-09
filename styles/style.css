@@ -28,7 +28,6 @@
 }
 
 .button {
-  box-sizing: border-box;
   border: 1px solid white;
   padding: 12px 32px;
   color: white;
@@ -217,9 +216,9 @@
   align-items: center;
   width: 240px;
   height: 240px;
-  margin-left: 47px;
   border-radius: 50%;
   background-color: black;
+  margin: 0 auto;
 }
 
 .about__logo-image {
